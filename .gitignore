@@ -5,4 +5,4 @@
 # ignore virtual environments
 .env/
 .myenv/
-
+.vscode/
