@@ -1,8 +1,9 @@
-.venv
 /csvs
 /pdfs
+analisis-guia.txt
 
 # ignore virtual environments
 .env/
+.venv
 .myenv/
 .vscode/
