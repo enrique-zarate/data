@@ -1,6 +1,7 @@
 /csvs
 /pdfs
 analisis-guia.txt
+/results
 
 # ignore virtual environments
 .env/
